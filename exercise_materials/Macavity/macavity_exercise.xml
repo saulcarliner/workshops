@@ -24,8 +24,8 @@
 	<text>
 		<body>
 			<div>
-				<pb n="32"
-					facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image1.jpg"/>
+				<pb n="1"
+					facs="https://raw.githubusercontent.com/LEAF-VRE/workshops/main/exercise_materials/Macavity/macavity_image1.jpg"/>
 				<head> MACAVITY: THE MYSTERY CAT </head>
 				<byline>
 					<docAuthor>T.S. Eliot</docAuthor>
@@ -55,8 +55,8 @@
 					<l>And when you think he's half asleep, he's always wide awake. </l>
 				</lg>
 
-				<pb n="33"
-					facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image2.jpg"/>
+				<pb n="2"
+					facs="https://raw.githubusercontent.com/LEAF-VRE/workshops/main/exercise_materials/Macavity/macavity_image2.jpg"/>
 
 				<lg>
 					<l>Macavity, Macavity, there's no one like Macavity, </l>
@@ -87,19 +87,18 @@
 					<l>Macavity, Macavity, there's no one like Macavity,</l>
 					<l>There never was a Cat of such deceitfulness and suavity. </l>
 				</lg>
+				
+				<pb n="3"
+					facs="https://raw.githubusercontent.com/LEAF-VRE/workshops/main/exercise_materials/Macavity/macavity_image3.jpg"/>
 
-
-				<note>NOTE: the stanzas above are broken down into line line groups (`lg`) and
-					individual lines (`l`). Change the tagging of the lines below to match that
-					above </note>
-				<pb n="34"
-					facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image3.jpg"/>
-
-				<p>He always has an alibi, and one or two to spare: At whatever time the deed took
-					place-MACAVITY WASN'T / THERE! And they say that all the Cats whose wicked deeds
-					are widely known (I might mention Mungojerrie, I might mention Griddlebone) Are
-					nothing more than agents for the Cat who all the time Just controls their
-					operations: the Napoleon of Crimel </p>
+				<lg>
+					<l>He always has an alibi, and one or two to spare:</l> 
+					<l>At whatever time the deed took place-MACAVITY WASN'T THERE!</l> 
+					<l>And they say that all the Cats whose wicked deeds are widely known</l> 
+					<l>(I might mention Mungojerrie, I might mention Griddlebone)</l> 
+					<l>Are nothing more than agents for the Cat who all the time </l>
+					<l>Just controls their operations: the Napoleon of Crime!</l> 
+				</lg>
 			</div>
 		</body>
 	</text>
