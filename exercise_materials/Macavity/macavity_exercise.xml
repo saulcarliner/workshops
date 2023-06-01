@@ -87,19 +87,18 @@
 					<l>Macavity, Macavity, there's no one like Macavity,</l>
 					<l>There never was a Cat of such deceitfulness and suavity. </l>
 				</lg>
-
-
-				<note>NOTE: the stanzas above are broken down into line line groups (`lg`) and
-					individual lines (`l`). Change the tagging of the lines below to match that
-					above </note>
+				
 				<pb n="3"
 					facs="https://raw.githubusercontent.com/LEAF-VRE/workshops/main/exercise_materials/Macavity/macavity_image3.jpg"/>
 
-				<p>He always has an alibi, and one or two to spare: At whatever time the deed took
-					place-MACAVITY WASN'T / THERE! And they say that all the Cats whose wicked deeds
-					are widely known (I might mention Mungojerrie, I might mention Griddlebone) Are
-					nothing more than agents for the Cat who all the time Just controls their
-					operations: the Napoleon of Crimel </p>
+				<lg>
+					<l>He always has an alibi, and one or two to spare:</l> 
+					<l>At whatever time the deed took place-MACAVITY WASN'T THERE!</l> 
+					<l>And they say that all the Cats whose wicked deeds are widely known</l> 
+					<l>(I might mention Mungojerrie, I might mention Griddlebone)</l> 
+					<l>Are nothing more than agents for the Cat who all the time </l>
+					<l>Just controls their operations: the Napoleon of Crime!</l> 
+				</lg>
 			</div>
 		</body>
 	</text>
